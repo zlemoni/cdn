@@ -1,0 +1,19 @@
+.footer{
+    text-align: center;
+    border-bottom: 0ch;
+}
+
+img{
+    height: 140px;
+    border-radius: 70px;
+}
+
+header{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+*{
+    margin-top: 0px;
+}
